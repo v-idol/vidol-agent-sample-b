@@ -1,16 +1,11 @@
 {
-  "name": "@v-idol/vidol-agent-sample-a",
+  "name": "@v-idol/vidol-agent-sample-b",
   "version": "1.0.0",
   "private": false,
-  "description": "Vidol Agent Sample A",
+  "description": "Vidol Agent Sample B",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "avatar.jpg",
-    "cover.jpg",
-    "model.vrm"
-  ],
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
